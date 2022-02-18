@@ -69,7 +69,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
     display: none;
  }
  h1:after {
-  content: 'Ciro Cesar Maciel';
+  content: 'RiLi SaaS';
  }
  .container-lg{
   max-width: 900px
@@ -104,6 +104,9 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
   text-align: center;
   list-style: none;
  }
+.footer {
+  display: none;
+}
 </style>
 
 
