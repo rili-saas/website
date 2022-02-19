@@ -23,13 +23,13 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a solutiOn)</strong>.
 
+Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving, Technical leadership
 
-<!--
 Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com Software? Me chame para bater um papo, vamos conversar a respeito.&nbsp;[<img src="https://www.convertte.com.br/cvtt/wp-content/themes/cvtt_v3/assets/gerador-link-new/images/wpp-logo.svg" alt="" style="height:15px;width:15px;">](https://api.whatsapp.com/send?phone=5511986166966)
 
 [the How and Why?](/how-and-why) | [how do we deliver Value?](/deliver-value) | [technologies I use](/technologies)
--->
 
+<!--
 ### our Projects
 - <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
 - <a href="https://webshot.ciro-maciel.me/" target="_blank">webShot</a> - take Screenshots of web pages
@@ -39,6 +39,7 @@ Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com So
 - [uniQue]() - SaaS starter kit, foundation for your **business**
 - [Plane](https://github.com/c37-cnc/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
 - [utility](https://github.com/ciro-maciel/utility) - utility package for development Applications
+-->
 
 
 
