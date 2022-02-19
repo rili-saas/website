@@ -105,7 +105,7 @@
     display: none;
  }
  h1:after {
-  content: 'RiLi SaaS (softwAre as a solutiOn) - our Stack';
+  content: 'RiLi SaaS - our Stack';
  }
  .container-lg{
   max-width: 900px
