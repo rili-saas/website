@@ -105,7 +105,7 @@
     display: none;
  }
  h1:after {
-  content: 'Ciro Cesar Maciel - our Stack';
+  content: 'RiLi SaaS (softwAre as a solutiOn) - our Stack';
  }
  .container-lg{
   max-width: 900px
@@ -115,5 +115,8 @@
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
+.footer {
+  display: none;
+}  
 </style>
 
