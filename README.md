@@ -9,7 +9,7 @@
   
   link.id = 'dynamic-favicon';
   link.rel = 'shortcut icon';
-  link.href = 'https://raw.githubusercontent.com/ciro-maciel/website/master/assets/favicon.ico';
+  link.href = 'https://raw.githubusercontent.com/rili-saas/website/main/assets/favicon.ico';
   
   document.head.appendChild(link);  
  
