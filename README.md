@@ -25,6 +25,17 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a s
 
 Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving, Technical leadership.
 
+### our Experience
+- Development and testing of smart contracts
+- Optimization of the gas consumption of smart contracts
+- Solidity, OpenZeppelin, Truffle, Ganache
+- Ethereum ERC-20/B.S.C. BEP-20 Tokens
+- NFT (ERC-721) Tokens
+- Crypto Staking/Yielding website
+- IPFS Technology 
+
+
+
 
 
 <!--
