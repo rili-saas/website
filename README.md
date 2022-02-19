@@ -27,10 +27,6 @@ Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving,
 
 
 
-Você tem uma ideia brilhante ou uma necessidade que deve ser solucionada com Software? Me chame para bater um papo, vamos conversar a respeito.&nbsp;[<img src="https://www.convertte.com.br/cvtt/wp-content/themes/cvtt_v3/assets/gerador-link-new/images/wpp-logo.svg" alt="" style="height:15px;width:15px;">](https://api.whatsapp.com/send?phone=5511986166966)
-
-[the How and Why?](/how-and-why) | [how do we deliver Value?](/deliver-value) | [technologies I use](/technologies)
-
 <!--
 ### our Projects
 - <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
