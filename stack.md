@@ -21,15 +21,6 @@
 
 ##### Services
 - [Amazon Web Services](https://aws.amazon.com/)
-    - Lambda Functions
-    - DynamoDB
-    - Amazon S3
-    - Route 53
-    - Gateway API
-    - CloudFront
-    - Certificate Manager
-    - CloudFormation
-    - CloudWatch
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
     - [Actions](https://github.com/features/actions)
@@ -68,11 +59,8 @@
 ##### Business
 - [Workspace](https://workspace.rili.be/) **by RiLi**
 - [Monitors](https://monitors.rili.be/) **by RiLi**
-- [Slack](https://slack.com/)
-- [Paddle](https://paddle.com/)
-- [Wise](https://wise.com/)
+- [Discord](https://discord.com)
 - [Loom](https://www.loom.com/)
-- [Smallchat](https://small.chat/)
 - [Hotjar](https://www.hotjar.com/)
 - [Google Tag Manager](https://tagmanager.google.com/)
 - [Ahrefs](https://ahrefs.com/)
