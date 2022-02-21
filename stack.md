@@ -29,11 +29,11 @@
 ##### Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [FiraCode](https://github.com/tonsky/FiraCode)
-- [CleanShot X](https://cleanshot.com/)
 - [ImageOptim](https://imageoptim.com/)
-- [ColorSlur‪p‬](https://apps.apple.com/us/app/colorslurp/id1287239339?ls=1&mt=12)
+- [ColorSlur‪p‬](https://apps.apple.com/us/app/colorslurp/id1287239339)
 
 ##### Tech
+- [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
 - [GraphQL](https://graphql.org/)
@@ -50,21 +50,21 @@
 ##### Design 
 - [Figma](https://www.figma.com/)
 - [Ant Design](https://ant.design/)
-- [AVATARZ](https://www.avatarz.design/)
+- [Favicon](http://favicon.io/)
 - [Free vectors icons and illustrations from Streamline](https://streamlineicons.com/)
 - [ThreeDee](https://threedee.design/)
 - [Superscene 4.1](https://craftwork.design/downloads/superscene-3d-constructor/)
-- [Favicon](http://favicon.io/)
 
 ##### Business
 - [Workspace](https://workspace.rili.be/) **by RiLi**
 - [Monitors](https://monitors.rili.be/) **by RiLi**
 - [Discord](https://discord.com)
 - [Loom](https://www.loom.com/)
+- [CleanShot X](https://cleanshot.com/) 
 - [Hotjar](https://www.hotjar.com/)
 - [Google Tag Manager](https://tagmanager.google.com/)
-- [Ahrefs](https://ahrefs.com/)
 - [Google Analytics](https://analytics.google.com/)
+- [Ahrefs](https://ahrefs.com/)
 
 <hr />
 
