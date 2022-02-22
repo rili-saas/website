@@ -32,23 +32,13 @@ Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving,
 - Ethereum ERC-20/B.S.C. BEP-20 Tokens
 - NFT (ERC-721) Tokens
 - Crypto Staking/Yielding website
-- IPFS Technology 
+- IPFS Technology
+- Integration of common wallet providers
+- Integration of smart contracts with React interface written in JavaScript
 
 
 
 
-
-<!--
-### our Projects
-- <a href="http://proxy.ciro-maciel.me/" target="_blank">Proxy</a> - all roads, One place
-- <a href="https://webshot.ciro-maciel.me/" target="_blank">webShot</a> - take Screenshots of web pages
-- <a href="https://workspace.ciro-maciel.me/" target="_blank">Workspace</a> - simple, how Everything should be
-
-#### Open Source
-- [uniQue]() - SaaS starter kit, foundation for your **business**
-- [Plane](https://github.com/c37-cnc/plane.js) - JavaScript Engine for Building 2D Element with HTML5 Canvas
-- [utility](https://github.com/ciro-maciel/utility) - utility package for development Applications
--->
 
 
 
