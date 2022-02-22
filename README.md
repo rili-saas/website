@@ -31,12 +31,14 @@ Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving,
 - Solidity, OpenZeppelin, Truffle, Ganache
 - Ethereum ERC-20/B.S.C. BEP-20 Tokens
 - NFT (ERC-721) Tokens
-- Crypto Staking/Yielding website
 - IPFS Technology
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
 
 
+<-- 
+- Crypto Staking/Yielding website
+-->
 
 
 
