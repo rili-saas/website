@@ -36,7 +36,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving,
 - Integration of smart contracts with React interface written in JavaScript
 
 
-<-- 
+<!--
 - Crypto Staking/Yielding website
 -->
 
