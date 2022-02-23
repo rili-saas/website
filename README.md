@@ -36,7 +36,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of smart contracts with React interface written in JavaScript
 
 
-<a href="mailto:sleuths_network0u@icloud.com" target="_blank">Contact us</a>
+<a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
 
 <!--
