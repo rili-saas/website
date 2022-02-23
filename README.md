@@ -23,7 +23,7 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a solutiOn)</strong>.
 
-Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving, Technical leadership.
+Lean Startup, Data focus, Agile Culture, Culture of automation.
 
 ### our Experience
 - Development and testing of smart contracts
@@ -34,6 +34,9 @@ Lean Startup, Data focus, Agile Culture, Culture of automation, Problem solving,
 - IPFS Technology
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
+
+
+<a href="mailto:sleuths_network0u@icloud.com" target="_blank">contact</a>
 
 
 <!--
