@@ -35,31 +35,39 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
 
+<table>
+  <tr>
+    <td>
+      ### our Token
 
-### our Token
+      **RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
+      <br/>
+      **Name**: RiLi
+      <br/>
+      **Symbol**: RILI
+      <br/>
+      **TYPE**: ERC-20
+      <br/>
+      **Decimals**: 18
+      <br/>
+      **Original Supply**: 10,000,000
+      <br/>
+      **RILI Contract Address**: TBD
+      <br/>
+      **Protocol Smart Contracts**: OpenZeppelin
+      <br/>
+      **Mint possible**: Yes, in contract
+      <br/>
+      **Burn possible**: Yes, in contract
+    </td>
+    <td>
+      <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
-**RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
-<br/>
-**Name**: RiLi
-<br/>
-**Symbol**: RILI
-<br/>
-**TYPE**: ERC-20
-<br/>
-**Decimals**: 18
-<br/>
-**Original Supply**: 10,000,000
-<br/>
-**RILI Contract Address**: TBD
-<br/>
-**Protocol Smart Contracts**: OpenZeppelin
-<br/>
-**Mint possible**: Yes, in contract
-<br/>
-**Burn possible**: Yes, in contract
+    </td>
+  </tr>
+</table>
 
 
-<a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
 
 <!--
