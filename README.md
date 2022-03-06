@@ -35,38 +35,31 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
 
-<table>
-  <tr>
-    <td>
-      **our Token**
+#### Mudanças de Comportamento
 
-      **RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
-      <br/>
-      **Name**: RiLi
-      <br/>
-      **Symbol**: RILI
-      <br/>
-      **TYPE**: ERC-20
-      <br/>
-      **Decimals**: 18
-      <br/>
-      **Original Supply**: 10,000,000
-      <br/>
-      **RILI Contract Address**: TBD
-      <br/>
-      **Protocol Smart Contracts**: OpenZeppelin
-      <br/>
-      **Mint possible**: Yes, in contract
-      <br/>
-      **Burn possible**: Yes, in contract
-    </td>
-    <td>
-      <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
+<div class="flex-row-container">
+  <div class="flex-row-item">
+    <h4>our Token</h4>
+    
+    <strong>RILI</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
+    <strong>Name</strong>: RiLi
+    <strong>Symbol</strong>: RILI
+    <strong>TYPE</strong>: ERC-20
+    <strong>Decimals</strong>: 18
+    <strong>Original Supply</strong>: 10,000,000
+    <strong>RILI Contract Address</strong>: TBD
+    <strong>Protocol Smart Contracts</strong>: Yes, in contract
+    <strong>Mint possible</strong>: OpenZeppelin
+    <strong>Burn possible</strong>: Yes, in contract
+  </div>
+  <div class="flex-row-item">
+    <h4>DApp</h4>
+    
+    <a href='https://dapp.rili.be/'>Secentralized application</a>
+  </div>
+</div>
 
-    </td>
-  </tr>
-</table>
-
+<a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
 
 
