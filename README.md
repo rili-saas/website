@@ -42,22 +42,42 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <h4>our Token</h4>
     
     <strong>RILI</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
+    <br/>
     <strong>Name</strong>: RiLi
+    <br/>    
     <strong>Symbol</strong>: RILI
+    <br/>    
     <strong>TYPE</strong>: ERC-20
+    <br/>    
     <strong>Decimals</strong>: 18
+    <br/>    
     <strong>Original Supply</strong>: 10,000,000
+    <br/>    
     <strong>RILI Contract Address</strong>: TBD
+    <br/>    
     <strong>Protocol Smart Contracts</strong>: Yes, in contract
+    <br/>    
     <strong>Mint possible</strong>: OpenZeppelin
+    <br/>    
     <strong>Burn possible</strong>: Yes, in contract
   </div>
   <div class="flex-row-item">
     <h4>DApp</h4>
     
     <a href='https://dapp.rili.be/'>Decentralized application</a>
+    
+    <h4>NFT</h4>
+    
+    <a href='https://nft.rili.be/'>Non-fungible token</a>
+    
+    
+    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img class="me-2" alt="Avalanche" src="https://univ.money/_nuxt/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
+    
+    
   </div>
 </div>
+
+<br/>
 
 <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
