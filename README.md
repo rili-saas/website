@@ -63,12 +63,14 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   </div>
   <div class="flex-row-item">
     <h4>DApp</h4>
+    <p>
+      Navigate RiLi DApp features.
+    </p>
+
+
     
     <a href='https://dapp.rili.be/'>Decentralized application</a>
     
-    <h4>NFT</h4>
-    
-    <a href='https://nft.rili.be/'>Non-fungible token</a>
     
     
     <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img class="me-2" alt="Avalanche" src="https://univ.money/_nuxt/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
@@ -144,7 +146,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   margin: 4px 0 !important;
  }
 .flex-row-container > .flex-row-item {
-  text-align: center;
+<!--   text-align: center; -->
  }
 .flex-row-container > .flex-row-item > ul {
   padding-left: 0px;
