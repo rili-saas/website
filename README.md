@@ -73,7 +73,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     
     
     
-    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img class="me-2" alt="Avalanche" src="https://univ.money/_nuxt/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
+    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img class="me-2" alt="Avalanche" src="https://raw.githubusercontent.com/rili-saas/website/main/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
     
     
   </div>
