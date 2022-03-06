@@ -36,11 +36,10 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of smart contracts with React interface written in JavaScript
 
 <br/>
-<br/>
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    <h3>our Token</h3>
+    <h3 class='text-center'>our Token</h3>
     
     <strong>RILI</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
     <br/>
@@ -63,17 +62,14 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <strong>Burn possible</strong>: Yes, in contract
   </div>
   <div class="flex-row-item">
-    <h3>DApp</h3>
+    <h3 class='text-center'>DApp</h3>
     <p>
       Navigate RiLi DApp features.
     </p>
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
     <a href='https://dapp.rili.be/'>Launch DApp</a>
     <br/>
-    
-    
-    
-    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img class="me-2" alt="Avalanche" src="https://raw.githubusercontent.com/rili-saas/website/main/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
+    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank"><img  alt="Avalanche" style="vertical-align: sub;margin-right: 3px;" src="https://raw.githubusercontent.com/rili-saas/website/main/assets/avax.885adb1d.svg" height="18" width="18">Get RILI</a>
     
     
   </div>
@@ -145,8 +141,8 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 .flex-row-container > .flex-row-item > h4 {
   margin: 4px 0 !important;
  }
-.flex-row-container > .flex-row-item {
-<!--   text-align: center; -->
+.text-center {
+  text-align: center;
  }
 .flex-row-container > .flex-row-item > ul {
   padding-left: 0px;
