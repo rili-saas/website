@@ -65,17 +65,17 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     Navigate RiLi DApp features.
     <br/>
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
-    <a href='https://dapp.rili.be/'>Launch DApp</a>
+    <a target="_blank" href='https://dapp.rili.be/'>
+      Launch DApp
+    </a>
     <br/>
     <br/>
     <div class='text-right'>
-      <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank">
+      <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" target="_blank">
         <img style="vertical-align: sub;margin-right: 3px;" src="/assets/avax.885adb1d.svg" height="18" width="18">
         Get RILI
       </a>
     </div>
-    
-    
   </div>
 </div>
 <br/>
