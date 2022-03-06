@@ -36,6 +36,20 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of smart contracts with React interface written in JavaScript
 
 
+### our Token
+
+**RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
+**Name**: RiLi
+**Symbol**: RILI
+**TYPE**: ERC-20
+**Decimals**: 18
+**Original Supply**: 10,000,000
+**RILI Contract Address**: TBD
+**Protocol Smart Contracts**: OpenZeppelin
+**Mint possible**: Yes, in contract
+**Burn possible**: Yes, in contract
+
+
 <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 
 
