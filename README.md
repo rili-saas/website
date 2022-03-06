@@ -35,11 +35,12 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
 
-#### Mudanças de Comportamento
+<br/>
+<br/>
 
 <div class="flex-row-container">
   <div class="flex-row-item">
-    <h4>our Token</h4>
+    <h3>our Token</h3>
     
     <strong>RILI</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
     <br/>
@@ -62,7 +63,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <strong>Burn possible</strong>: Yes, in contract
   </div>
   <div class="flex-row-item">
-    <h4>DApp</h4>
+    <h3>DApp</h3>
     <p>
       Navigate RiLi DApp features.
     </p>
