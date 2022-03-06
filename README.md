@@ -39,14 +39,23 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 ### our Token
 
 **RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
+
 **Name**: RiLi
+
 **Symbol**: RILI
+
 **TYPE**: ERC-20
+
 **Decimals**: 18
+
 **Original Supply**: 10,000,000
+
 **RILI Contract Address**: TBD
+
 **Protocol Smart Contracts**: OpenZeppelin
+
 **Mint possible**: Yes, in contract
+
 **Burn possible**: Yes, in contract
 
 
