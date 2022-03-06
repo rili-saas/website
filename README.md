@@ -35,7 +35,6 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
 
-<br/>
 
 <div class="flex-row-container">
   <div class="flex-row-item">
@@ -68,10 +67,13 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
     <a href='https://dapp.rili.be/'>Launch DApp</a>
     <br/>
-    <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank">
-      <img style="vertical-align: sub;margin-right: 3px;" src="/assets/avax.885adb1d.svg" height="18" width="18">
-      Get RILI
-    </a>
+    <br/>
+    <div class='text-right'>
+      <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" rel="noopener nofollow noreferrer" target="_blank">
+        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/avax.885adb1d.svg" height="18" width="18">
+        Get RILI
+      </a>
+    </div>
     
     
   </div>
@@ -146,6 +148,10 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 .text-center {
   text-align: center;
  }
+.text-right {
+  text-align: right; 
+ }
+     
 .flex-row-container > .flex-row-item > ul {
   padding-left: 0px;
  }
