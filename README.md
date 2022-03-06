@@ -61,8 +61,8 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <strong>Burn possible</strong>: Yes, in contract
     <br/>
     <div class='text-right'>
-      <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" target="_blank">
-        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/avax.885adb1d.svg" height="18" width="18">
+      <a href="https://spookyswap.finance/swap" target="_blank">
+        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
         Get RILI
       </a>
     </div>
@@ -77,8 +77,8 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     </a>
     <br/>
     <div class='text-right'>
-      <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" target="_blank">
-        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/avax.885adb1d.svg" height="18" width="18">
+      <a href="https://spookyswap.finance/swap" target="_blank">
+        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
         Get RILI Playground
       </a>
     </div>
