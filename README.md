@@ -54,9 +54,9 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <br/>    
     <strong>RILI Contract Address</strong>: TBD
     <br/>    
-    <strong>Protocol Smart Contracts</strong>: Yes, in contract
+    <strong>Protocol Smart Contracts</strong>: OpenZeppelin
     <br/>    
-    <strong>Mint possible</strong>: OpenZeppelin
+    <strong>Mint possible</strong>: Yes, in contract
     <br/>    
     <strong>Burn possible</strong>: Yes, in contract
   </div>
