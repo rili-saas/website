@@ -55,7 +55,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   <div class="flex-row-item">
     <h4>DApp</h4>
     
-    <a href='https://dapp.rili.be/'>Secentralized application</a>
+    <a href='https://dapp.rili.be/'>Decentralized application</a>
   </div>
 </div>
 
