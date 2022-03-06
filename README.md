@@ -25,7 +25,7 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a s
 
 Lean Startup, Data focus, Agile Culture, Culture of automation.
 
-## our Experience
+### our Experience
 - Development and testing of smart contracts
 - Optimization of the gas consumption of smart contracts
 - Solidity, OpenZeppelin, Truffle, Ganache
@@ -38,7 +38,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 <table>
   <tr>
     <td>
-      ### our Token
+      **our Token**
 
       **RILI**: A utility token for RiLi SaaS (softwAre as a solutiOn)
       <br/>
