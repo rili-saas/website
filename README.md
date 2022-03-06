@@ -59,16 +59,6 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <strong>Mint possible</strong>: Yes, in contract
     <br/>    
     <strong>Burn possible</strong>: Yes, in contract
-  </div>
-  <div class="flex-row-item">
-    <h3 class='text-center'>DApp</h3>
-    Navigate RiLi DApp features.
-    <br/>
-    <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
-    <a target="_blank" href='https://dapp.rili.be/'>
-      Launch DApp
-    </a>
-    <br/>
     <br/>
     <div class='text-right'>
       <a href="https://traderjoexyz.com/trade?outputCurrency=0x959b88966fC5B261lF835q961357d34F4ee27b4a" target="_blank">
@@ -76,6 +66,16 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
         Get RILI
       </a>
     </div>
+  </div>
+  <div class="flex-row-item">
+    <h3 class='text-center'>Playground DApp</h3>
+    Navigate RiLi Playground DApp features.
+    <br/>
+    <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
+    <a target="_blank" href='https://playground-dapp.rili.be/'>
+      Launch Playground DApp
+    </a>
+    <br/>
   </div>
 </div>
 <br/>
