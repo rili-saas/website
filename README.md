@@ -40,7 +40,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   <div class="flex-row-item">
     <h3 class='text-center'>our Token</h3>
     
-    <strong>RiLi Playground</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
+    <strong>RiLi Playground</strong>: A utility token for RiLi SaaS
     <br/>
     <strong>Name</strong>: RiLi Playground
     <br/>    
