@@ -25,7 +25,7 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a s
 
 Lean Startup, Data focus, Agile Culture, Culture of automation.
 
-<div class='text-right'>
+<div class=''>
   <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 </div>
 
@@ -65,6 +65,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <br/>    
     <strong>Burn possible</strong>: Yes, in contract
     <br/>
+    <br/>
     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
         <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
@@ -89,7 +90,6 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     </div> -->
   </div>
 </div>
-<br/>
 
 
 
