@@ -40,11 +40,11 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   <div class="flex-row-item">
     <h3 class='text-center'>our Token</h3>
     
-    <strong>RILI</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
+    <strong>RiLi Playground</strong>: A utility token for RiLi SaaS (softwAre as a solutiOn)
     <br/>
-    <strong>Name</strong>: RiLi
+    <strong>Name</strong>: RiLi Playground
     <br/>    
-    <strong>Symbol</strong>: RILI
+    <strong>Symbol</strong>: RILIPLAY
     <br/>    
     <strong>TYPE</strong>: ERC-20
     <br/>    
