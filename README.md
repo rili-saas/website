@@ -25,6 +25,11 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a s
 
 Lean Startup, Data focus, Agile Culture, Culture of automation.
 
+<div class='text-right'>
+  <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
+</div>
+
+
 ### our Experience
 - Development and testing of smart contracts
 - Optimization of the gas consumption of smart contracts
@@ -85,7 +90,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   </div>
 </div>
 <br/>
-<a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
+
 
 
 
