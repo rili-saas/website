@@ -78,9 +78,8 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     Navigate RiLi DApp features.
     <br/>
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
-    <a target="_blank" href='https://playground-dapp.rili.be/'>
-      Launch DApp
-    </a>
+    <!-- <a target="_blank" href='https://playground-dapp.rili.be/'>Launch DApp</a> -->
+    <a target="_blank" href='https://dapp.rili.be/'>Launch DApp</a>
     <br/>
 <!--     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
