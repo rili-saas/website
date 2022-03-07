@@ -50,7 +50,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <br/>    
     <strong>Decimals</strong>: 18
     <br/>    
-    <strong>Original Supply</strong>: 10,000,000
+    <strong>Original Supply</strong>: 2,000,000
     <br/>    
     <strong>RILI Contract Address</strong>: TBD
     <br/>    
