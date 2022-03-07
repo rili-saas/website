@@ -57,7 +57,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <br/>    
     <strong>Original Supply</strong>: 2,000,000
     <br/>    
-    <strong>RILI Contract Address</strong>: TBD
+    <strong>Contract Address</strong>: TBD
     <br/>    
     <strong>Protocol Smart Contracts</strong>: OpenZeppelin
     <br/>    
