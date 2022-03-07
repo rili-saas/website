@@ -68,12 +68,12 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     </div>
   </div>
   <div class="flex-row-item">
-    <h3 class='text-center'>Playground DApp</h3>
+    <h3 class='text-center'>DApp</h3>
     Navigate RiLi Playground DApp features.
     <br/>
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
     <a target="_blank" href='https://playground-dapp.rili.be/'>
-      Launch Playground DApp
+      Launch DApp
     </a>
     <br/>
 <!--     <div class='text-right'>
