@@ -63,7 +63,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
         <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
-        Get RILI
+        Get RiLi Playground
       </a>
     </div>
   </div>
