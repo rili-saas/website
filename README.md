@@ -32,7 +32,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 
 ### our Experience
 - JavaScript ES2021/ES6/ES7
-- JavaScript Ecosystem (Browsers, Node.js, NPM, webpack, NPX, EthPM)
+- JavaScript Ecosystem (Browsers, React/Preact, Node.js, NPM, webpack, NPX, EthPM)
 - Development and testing of smart contracts
 - Optimization of the gas consumption of smart contracts
 - Solidity, OpenZeppelin, Truffle, Ganache
