@@ -82,6 +82,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
     <!-- <a target="_blank" href='https://playground-dapp.rili.be/'>Launch DApp</a> -->
     <a target="_blank" href='https://nest.rili.be/'>nEst Investiment</a>
+    <br/>
     <a target="_blank" href='https://nest.rili.be/'>Pinner a real DApp hosting</a>
     <br/>
 <!--     <div class='text-right'>
