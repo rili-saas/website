@@ -47,11 +47,11 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
   <div class="flex-row-item">
     <h3 class='text-center'>our Token</h3>
     
-    <strong>RiLi Playground</strong>: A utility token for RiLi SaaS
+    <strong>RiLi</strong>: A utility token for RiLi SaaS
     <br/>
-    <strong>Name</strong>: RiLi Playground
+    <strong>Name</strong>: RiLi
     <br/>    
-    <strong>Symbol</strong>: RILIPLAY
+    <strong>Symbol</strong>: RILI
     <br/>    
     <strong>TYPE</strong>: ERC-20
     <br/>    
@@ -71,7 +71,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
         <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
-        Get RiLi Playground
+        Get RiLi
       </a>
     </div>
   </div>
