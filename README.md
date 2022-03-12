@@ -41,6 +41,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - IPFS Technology
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
+- Crypto Staking/Yielding website
 
 
 <div class="flex-row-container">
@@ -83,7 +84,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <!-- <a target="_blank" href='https://playground-dapp.rili.be/'>Launch DApp</a> -->
     <a target="_blank" href='https://nest.rili.be/'>nEst Investiment</a>
     <br/>
-    <a target="_blank" href='https://nest.rili.be/'>Pinner a real DApp hosting</a>
+    <a target="_blank" href='https://pinner.rili.be/'>Pinner a real DApp hosting</a>
     <br/>
 <!--     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
@@ -93,16 +94,6 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     </div> -->
   </div>
 </div>
-
-
-
-
-<!--
-- Crypto Staking/Yielding website
--->
-
-
-
 
 
 <hr />
