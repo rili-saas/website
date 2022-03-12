@@ -76,12 +76,13 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     </div>
   </div>
   <div class="flex-row-item">
-    <h3 class='text-center'>DApp</h3>
-    Navigate RiLi DApp features.
+    <h3 class='text-center'>our Projects</h3>
+    know our projects.
     <br/>
     <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
     <!-- <a target="_blank" href='https://playground-dapp.rili.be/'>Launch DApp</a> -->
-    <a target="_blank" href='https://dapp.rili.be/'>Launch DApp</a>
+    <a target="_blank" href='https://nest.rili.be/'>nEst Investiment</a>
+    <a target="_blank" href='https://nest.rili.be/'>Pinner a real DApp hosting</a>
     <br/>
 <!--     <div class='text-right'>
       <a href="https://spookyswap.finance/swap" target="_blank">
