@@ -41,7 +41,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - IPFS Technology
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
-- Crypto Staking/Yielding website
+- Decentralized applications (DApps)
 
 
 <div class="flex-row-container">
