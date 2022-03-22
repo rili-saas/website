@@ -35,9 +35,9 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - JavaScript Ecosystem (Browsers, React/Preact, Node.js, NPM, webpack, NPX, EthPM)
 - Development and testing of smart contracts
 - Optimization of the gas consumption of smart contracts
-- Solidity, OpenZeppelin, Truffle, Ganache
-- Ethereum ERC-20/B.S.C. BEP-20 Tokens
-- NFT (ERC-721) Tokens
+- Solidity, OpenZeppelin, UniversalToken, Truffle, Ganache
+- ERC-20/BEP-20 Tokens
+- NFT(ERC-721) Tokens
 - IPFS Technology
 - Integration of common wallet providers
 - Integration of smart contracts with React interface written in JavaScript
