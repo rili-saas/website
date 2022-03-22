@@ -36,7 +36,7 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
 - Development and testing of smart contracts
 - Optimization of the gas consumption of smart contracts
 - Solidity, OpenZeppelin, UniversalToken, Truffle, Ganache
-- ERC-20/BEP-20 Tokens
+- Ethereum(ERC-20)/BSC(BEP-20) Tokens
 - NFT(ERC-721) Tokens
 - IPFS Technology
 - Integration of common wallet providers
