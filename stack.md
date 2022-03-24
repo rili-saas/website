@@ -149,6 +149,14 @@
 </div>
 
 
+
+
+
+
+
+
+<!--  
+
 ##### Services
 - [Amazon Web Services](https://console.aws.amazon.com/)
 - [Vultr](https://www.vultr.com/)
@@ -203,6 +211,8 @@
 - [CleanShot X](https://cleanshot.com/)
 - [Paddle](https://www.paddle.com)
 - [Husky](https://www.husky.io)
+
+-->
 
 <hr />
 
