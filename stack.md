@@ -1,5 +1,4 @@
 <script>
-
   if (window.location.protocol != "https:"){
       window.location.protocol = "https";
   } 
@@ -12,141 +11,144 @@
   link.href = 'https://raw.githubusercontent.com/rili-saas/website/main/assets/favicon.ico';
   
   document.head.appendChild(link);  
- 
 </script>
+
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
+
+
 <div class="flex-row-container">
-  <div class="flex-row-item">
-    
-    <h3 class='text-center'>Services</h3>
-    <ul>
-      <li>
-        <a href="https://console.aws.amazon.com/" target="_blank">
-          Amazon Web Services
-        </a>
-      </li>
-      <li>
-        <a href="https://www.vultr.com/" target="_blank">
-          Vultr
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/" target="_blank">
-          Github
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/features/actions" target="_blank">
-          Github - Actions
-        </a>
-      </li>
-      <li>
-        <a href="https://www.npmjs.com/" target="_blank">
-          NPM
-        </a>
-      </li>
-    </ul>
+    <div class="flex-row-item">
 
-    <h3 class='text-center'>Tech</h3>
-    <ul>
-      <li>
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-          JavaScript
-        </a>
-      </li>
-      <li>
-        <a href="https://reactjs.org/" target="_blank">
-          React
-        </a>
-      </li>
-      <li>
-        <a href="https://nodejs.org/" target="_blank">
-          Node.js
-        </a>
-      </li>
-      <li>
-        <a href="https://graphql.org/" target="_blank">
-          GraphQL
-        </a>
-      </li>
-      <li>
-        <a href="https://www.meilisearch.com/" target="_blank">
-          MeiliSearch
-        </a>
-      </li>
-      <li>
-        <a href="https://www.serverless.com/" target="_blank">
-          Serverless Framework
-        </a>
-      </li>
-      <li>
-        <a href="https://www.chartjs.org/" target="_blank">
-          Chart.js
-        </a>
-      </li>
-    </ul>
-    
-    
-  </div>
-  <div class="flex-row-item">
-    <h3 class='text-center'>Tools</h3>
-    
-    <ul>
-      <li>
-        <a href="https://code.visualstudio.com/" target="_blank">
-          Visual Studio Code
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/tonsky/FiraCode" target="_blank">
-          FiraCode
-        </a>
-      </li>
-      <li>
-        <a href="https://imageoptim.com/" target="_blank">
-          ImageOptim
-        </a>
-      </li>
-      <li>
-        <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
-          ColorSlur
-        </a>
-      </li>
-    </ul>
-    
-    
-    <h3 class='text-center'>Coding</h3>
-    <ul>
-      <li>
-        <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
-          Front-end React.js Application **by ciro-maciel**
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/ciro-maciel/template-back-end-node.js-services" target="_blank">
-          Back-end Node.js Services **by ciro-maciel**
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/ciro-maciel/template-back-end-node.js-graphql" target="_blank">
-          Back-end Node.js GraphQL **by ciro-maciel**
-        </a>
-      </li>
-      <li>
-        <a href="https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df" target="_blank">
-          Conventional Commits
-        </a>
-      </li>
-      <li>
-    </ul>
+        <h3 class='text-center'>Services</h3>
+        <ul>
+            <li>
+                <a href="https://console.aws.amazon.com/" target="_blank">
+                    Amazon Web Services
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vultr.com/" target="_blank">
+                    Vultr
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/" target="_blank">
+                    Github
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/features/actions" target="_blank">
+                    Github - Actions
+                </a>
+            </li>
+            <li>
+                <a href="https://www.npmjs.com/" target="_blank">
+                    NPM
+                </a>
+            </li>
+        </ul>
 
-    
+        <h3 class='text-center'>Tech</h3>
+        <ul>
+            <li>
+                <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+                    JavaScript
+                </a>
+            </li>
+            <li>
+                <a href="https://reactjs.org/" target="_blank">
+                    React
+                </a>
+            </li>
+            <li>
+                <a href="https://nodejs.org/" target="_blank">
+                    Node.js
+                </a>
+            </li>
+            <li>
+                <a href="https://graphql.org/" target="_blank">
+                    GraphQL
+                </a>
+            </li>
+            <li>
+                <a href="https://www.meilisearch.com/" target="_blank">
+                    MeiliSearch
+                </a>
+            </li>
+            <li>
+                <a href="https://www.serverless.com/" target="_blank">
+                    Serverless Framework
+                </a>
+            </li>
+            <li>
+                <a href="https://www.chartjs.org/" target="_blank">
+                    Chart.js
+                </a>
+            </li>
+        </ul>
 
-    
-  </div>
+
+    </div>
+    <div class="flex-row-item">
+        <h3 class='text-center'>Tools</h3>
+        <ul>
+            <li>
+                <a href="https://code.visualstudio.com/" target="_blank">
+                    Visual Studio Code
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/tonsky/FiraCode" target="_blank">
+                    FiraCode
+                </a>
+            </li>
+            <li>
+                <a href="https://imageoptim.com/" target="_blank">
+                    ImageOptim
+                </a>
+            </li>
+            <li>
+                <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
+                    ColorSlur
+                </a>
+            </li>
+        </ul>
+
+        <h3 class='text-center'>Coding</h3>
+        <ul>
+            <li>
+                <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
+                    Front-end React.js Application **by ciro-maciel**
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/ciro-maciel/template-back-end-node.js-services" target="_blank">
+                    Back-end Node.js Services **by ciro-maciel**
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/ciro-maciel/template-back-end-node.js-graphql" target="_blank">
+                    Back-end Node.js GraphQL **by ciro-maciel**
+                </a>
+            </li>
+            <li>
+                <a href="https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df" target="_blank">
+                    Conventional Commits
+                </a>
+            </li>
+            <li>
+        </ul>
+
+
+
+
+    </div>
 </div>
+
+
+
 
 <hr />
 
