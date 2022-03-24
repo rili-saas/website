@@ -29,13 +29,40 @@
       Vultr
     </a>
     <br/>
+    <a href="https://github.com/" target="_blank">
+      Github
+    </a>
+    <br/>
+    <a href="https://github.com/features/actions" target="_blank">
+      Github - Actions
+    </a>
+    <br/>
+    <a href="https://www.npmjs.com/" target="_blank">
+      NPM
+    </a>
+    <br/>
 
   
   
   </div>
   <div class="flex-row-item">
-    <h3 class='text-center'>our Projects</h3>
-    know our projects.
+    <h3 class='text-center'>Tools</h3>
+
+    <a href="https://code.visualstudio.com/" target="_blank">
+      Visual Studio Code
+    </a>
+    <br/>
+    <a href="https://github.com/tonsky/FiraCode" target="_blank">
+      FiraCode
+    </a>
+    <br/>
+    <a href="https://imageoptim.com/" target="_blank">
+      ImageOptim
+    </a>
+    <br/>
+    <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
+      ColorSlur
+    </a>
     <br/>
     
   </div>
