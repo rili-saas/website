@@ -45,6 +45,7 @@
 - [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application) **by ciro-maciel**
 - [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services) **by ciro-maciel**
 - [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql) **by ciro-maciel**
+- [Conventional Commits](https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df)
 
 ##### Design 
 - [Figma](https://www.figma.com/)
@@ -69,7 +70,9 @@
 - [Monitors](https://monitors.rili.be/) **by RiLi**
 - [Discord](https://discord.com)
 - [Loom](https://www.loom.com/)
-- [CleanShot X](https://cleanshot.com/) 
+- [CleanShot X](https://cleanshot.com/)
+- [Paddle](https://www.paddle.com)
+- [Husky](https://www.husky.io)
 
 <hr />
 
