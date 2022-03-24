@@ -89,7 +89,44 @@
             </li>
         </ul>
 
+        <h3 class='text-center'>Site Reliability Engineering</h3>
+        <ul>
+            <li>
+                <a href="https://app.pm2.io" target="_blank">
+                    PM2
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/getsentry/sentry" target="_blank">
+                    Sentry
+                </a>
+            </li>
+        </ul>
 
+        <h3 class='text-center'>Data</h3>
+        <ul>
+            <li>
+                <a href="https://tagmanager.google.com/" target="_blank">
+                    Google Tag Manager
+                </a>
+            </li>
+            <li>
+                <a href="https://analytics.google.com/" target="_blank">
+                    Google Analytics
+                </a>
+            </li>
+            <li>
+                <a href="https://www.hotjar.com/" target="_blank">
+                    Hotjar
+                </a>
+            </li>
+            <li>
+                <a href="https://ahrefs.com/" target="_blank">
+                    Ahrefs
+                </a>
+            </li>
+        </ul>
+      
     </div>
     <div class="flex-row-item">
         <h3 class='text-center'>Tools</h3>
