@@ -124,7 +124,7 @@
     display: none;
  }
  h1:after {
-  content: 'RiLi SaaS - our Stack';
+  content: 'RiLi SaaS';
  }
  .container-lg{
   max-width: 900px
@@ -134,8 +134,38 @@
   border-bottom: 1px solid #eaecef !important;
   margin-bottom: 10px !important;
  }
+.flex-row-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-items: stretch;
+}
+.flex-row-container > .flex-row-item {
+    flex: 1 1 50%; /*grow | shrink | basis */
+    min-width: 250px;
+    padding: 0 10px;
+}
+.flex-row-container > .flex-row-item > h4 {
+  margin: 4px 0 !important;
+ }
+.text-center {
+  text-align: center;
+ }
+.text-right {
+  text-align: right; 
+ }
+     
+.flex-row-container > .flex-row-item > ul {
+  padding-left: 0px;
+ }
+.flex-row-container > .flex-row-item > ul > li {
+  text-align: center;
+  list-style: none;
+ }
 .footer {
   display: none;
-}  
+}
 </style>
+
 
