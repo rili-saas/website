@@ -117,7 +117,7 @@
     </ul>
     
     
-    <h3 class='text-center'>Tools</h3>
+    <h3 class='text-center'>Coding</h3>
     <ul>
       <li>
         <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
