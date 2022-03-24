@@ -20,30 +20,33 @@
 <div class="flex-row-container">
   <div class="flex-row-item">
     <h3 class='text-center'>Services</h3>
-    
-    <a href="https://console.aws.amazon.com/" target="_blank">
-      Amazon Web Services
-    </a>
-    <br/>
-    <a href="https://www.vultr.com/" target="_blank">
-      Vultr
-    </a>
-    <br/>
-    <a href="https://github.com/" target="_blank">
-      Github
-    </a>
-    <br/>
-    <a href="https://github.com/features/actions" target="_blank">
-      Github - Actions
-    </a>
-    <br/>
-    <a href="https://www.npmjs.com/" target="_blank">
-      NPM
-    </a>
-    <br/>
-
-  
-  
+    <ul>
+      <li>
+        <a href="https://console.aws.amazon.com/" target="_blank">
+          Amazon Web Services
+        </a>
+      </li>
+      <li>
+        <a href="https://www.vultr.com/" target="_blank">
+          Vultr
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/" target="_blank">
+          Github
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/features/actions" target="_blank">
+          Github - Actions
+        </a>
+      </li>
+      <li>
+        <a href="https://www.npmjs.com/" target="_blank">
+          NPM
+        </a>
+      </li>
+    </ul>      
   </div>
   <div class="flex-row-item">
     <h3 class='text-center'>Tools</h3>
