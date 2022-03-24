@@ -138,16 +138,11 @@
                     Conventional Commits
                 </a>
             </li>
-            <li>
         </ul>
-
-
-
-
     </div>
+
+
 </div>
-
-
 
 
 <hr />
