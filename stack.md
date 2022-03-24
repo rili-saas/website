@@ -139,7 +139,45 @@
                 </a>
             </li>
         </ul>
+      
+        <h3 class='text-center'>Design</h3>
+        <ul>
+            <li>
+                <a href="https://www.figma.com/" target="_blank">
+                    Figma
+                </a>
+            </li>
+            <li>
+                <a href="https://ant.design/" target="_blank">
+                    Ant Design
+                </a>
+            </li>
+            <li>
+                <a href="http://favicon.io/" target="_blank">
+                    Favicon
+                </a>
+            </li>
+            <li>
+                <a href="https://streamlineicons.com/" target="_blank">
+                    Streamline
+                </a>
+            </li>
+            <li>
+                <a href="https://threedee.design/" target="_blank">
+                    ThreeDee
+                </a>
+            </li>
+            <li>
+                <a href="https://craftwork.design/downloads/superscene-3d-constructor/" target="_blank">
+                    Superscene 4.1
+                </a>
+            </li>
+        </ul>
+      
     </div>
+  
+  
+
 
 
 </div>
