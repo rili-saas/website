@@ -46,7 +46,8 @@
           NPM
         </a>
       </li>
-    </ul>      
+    </ul>
+    
   </div>
   <div class="flex-row-item">
     <h3 class='text-center'>Tools</h3>
@@ -190,7 +191,7 @@
   padding-left: 0px;
  }
 .flex-row-container > .flex-row-item > ul > li {
-  text-align: center;
+<!--   text-align: center; -->
   list-style: none;
  }
 .footer {
