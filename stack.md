@@ -211,12 +211,46 @@
             </li>
         </ul>
       
+        <h3 class='text-center'>Business</h3>
+        <ul>
+            <li>
+                <a href="https://workspace.rili.be/" target="_blank">
+                    Workspace **by RiLi**
+                </a>
+            </li>
+            <li>
+                <a href="https://monitors.rili.be/" target="_blank">
+                    Monitors **by RiLi**
+                </a>
+            </li>
+            <li>
+                <a href="https://discord.com" target="_blank">
+                    Discord
+                </a>
+            </li>
+            <li>
+                <a href="https://www.loom.com/" target="_blank">
+                    Loom
+                </a>
+            </li>
+            <li>
+                <a href="https://cleanshot.com/" target="_blank">
+                    CleanShot X
+                </a>
+            </li>
+            <li>
+                <a href="https://www.paddle.com" target="_blank">
+                    Paddle
+                </a>
+            </li>
+            <li>
+                <a href="https://www.husky.io" target="_blank">
+                    Husky
+                </a>
+            </li>
+        </ul>
+      
     </div>
-  
-  
-
-
-
 </div>
 
 
