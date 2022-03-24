@@ -20,7 +20,7 @@
 ####  Toolkit
 
 ##### Services
-- [Amazon Web Services](https://aws.amazon.com/)
+- [Amazon Web Services](https://console.aws.amazon.com/)
 - [Vultr](https://www.vultr.com/)
 - [Github](https://github.com/)
     - [Actions](https://github.com/features/actions)
@@ -45,7 +45,6 @@
 - [Front-end React.js Application](https://github.com/ciro-maciel/template-front-end-react.js-application) **by ciro-maciel**
 - [Back-end Node.js Services](https://github.com/ciro-maciel/template-back-end-node.js-services) **by ciro-maciel**
 - [Back-end Node.js GraphQL](https://github.com/ciro-maciel/template-back-end-node.js-graphql) **by ciro-maciel**
-- [Sentry](https://github.com/getsentry/sentry)
 
 ##### Design 
 - [Figma](https://www.figma.com/)
@@ -55,16 +54,22 @@
 - [ThreeDee](https://threedee.design/)
 - [Superscene 4.1](https://craftwork.design/downloads/superscene-3d-constructor/)
 
+#### Site Reliability Engineering
+- [PM2](https://app.pm2.io)
+- [Sentry](https://github.com/getsentry/sentry)
+
+#### Data
+- [Google Tag Manager](https://tagmanager.google.com/)
+- [Google Analytics](https://analytics.google.com/)
+- [Hotjar](https://www.hotjar.com/)
+- [Ahrefs](https://ahrefs.com/)
+
 ##### Business
 - [Workspace](https://workspace.rili.be/) **by RiLi**
 - [Monitors](https://monitors.rili.be/) **by RiLi**
 - [Discord](https://discord.com)
 - [Loom](https://www.loom.com/)
 - [CleanShot X](https://cleanshot.com/) 
-- [Hotjar](https://www.hotjar.com/)
-- [Google Tag Manager](https://tagmanager.google.com/)
-- [Google Analytics](https://analytics.google.com/)
-- [Ahrefs](https://ahrefs.com/)
 
 <hr />
 
