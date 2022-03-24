@@ -157,17 +157,17 @@
         <ul>
             <li>
                 <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
-                    Front-end React.js Application **by ciro-maciel**
+                  Front-end React.js Application <strong>by ciro-maciel</strong>
                 </a>
             </li>
             <li>
                 <a href="https://github.com/ciro-maciel/template-back-end-node.js-services" target="_blank">
-                    Back-end Node.js Services **by ciro-maciel**
+                    Back-end Node.js Services <strong>by ciro-maciel</strong>
                 </a>
             </li>
             <li>
                 <a href="https://github.com/ciro-maciel/template-back-end-node.js-graphql" target="_blank">
-                    Back-end Node.js GraphQL **by ciro-maciel**
+                    Back-end Node.js GraphQL <strong>by ciro-maciel</strong>
                 </a>
             </li>
             <li>
@@ -215,12 +215,12 @@
         <ul>
             <li>
                 <a href="https://workspace.rili.be/" target="_blank">
-                    Workspace **by RiLi**
+                    Workspace <strong>by RiLi</strong>
                 </a>
             </li>
             <li>
                 <a href="https://monitors.rili.be/" target="_blank">
-                    Monitors **by RiLi**
+                    Monitors <strong>by RiLi</strong>
                 </a>
             </li>
             <li>
