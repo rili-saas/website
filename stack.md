@@ -127,6 +127,27 @@
             </li>
         </ul>
       
+        <h3 class='text-center'>Communication</h3>
+        <ul>
+            <li>
+                <a href="https://slack.com/" target="_blank">
+                    Slack
+                </a>
+            </li>
+            <li>
+                <a href="https://small.chat/" target="_blank">
+                    Smallchat
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/features/issues" target="_blank">
+                  Github - Projects
+                </a>
+            </li>
+          
+
+        </ul>
+      
     </div>
     <div class="flex-row-item">
         <h3 class='text-center'>Tools</h3>
@@ -221,11 +242,6 @@
             <li>
                 <a href="https://monitors.rili.be/" target="_blank">
                     Monitors <strong>by RiLi</strong>
-                </a>
-            </li>
-            <li>
-                <a href="https://discord.com" target="_blank">
-                    Discord
                 </a>
             </li>
             <li>
