@@ -83,8 +83,6 @@ We are a remote technology company committed to building world class SaaS (softw
     <h3 class='text-center'>our Projects</h3>
     know our projects.
     <br/>
-    <!-- https://ethereum.org/en/developers/docs/dapps/ -->   
-    <!-- <a target="_blank" href='https://playground-dapp.rili.be/'>Launch DApp</a> -->
     <a target="_blank" href='https://nest.rili.be/'>nEst Investiment</a>
     <br/>
     <a target="_blank" href='https://pinner.rili.be/'>Pinner a real DApp hosting</a>
