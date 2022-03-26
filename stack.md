@@ -196,6 +196,11 @@
                     Conventional Commits
                 </a>
             </li>
+            <li>
+                <a href="https://www.npmjs.com/package/npm-check-updates" target="_blank">
+                    npm-check-updates
+                </a>
+            </li>
         </ul>
       
         <h3 class='text-center'>Design</h3>
