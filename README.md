@@ -24,7 +24,10 @@
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
 
 We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn).
-  
+
+<div class=''>
+  <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
+</div>
 
 ### our Projects
 - <a href="http://proxy.rili.be/" target="_blank">Proxy</a> - all roads, One place
@@ -39,14 +42,6 @@ We are a remote technology company committed to building world class SaaS (softw
 - [Back-end Node.js GraphQL by ciro-maciel](https://github.com/rili-saas/template-back-end-node.js-graphql)
 - [utility](https://github.com/ciro-maciel/utility) - utility package for development Applications
 
-  
-<div class=''>
-  <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
-</div>
-  
-  
-  
-  
 
 <!--  
 ### our Experience
