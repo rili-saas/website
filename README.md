@@ -21,14 +21,16 @@
 <img width="96" style="border-radius: 60px;" src="https://raw.githubusercontent.com/rili-saas/website/main/assets/apple-touch-icon.png" height="96" alt="">
 </div>
 
-hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a solutiOn)</strong>.
+hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
 
-We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn)
-
-
+We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn).
+  
+  
 <div class=''>
   <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 </div>
+  
+  
 
 <!--  
 ### our Experience
