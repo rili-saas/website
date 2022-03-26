@@ -23,13 +23,14 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS (softwAre as a solutiOn)</strong>.
 
-Lean Startup, Data focus, Agile Culture, Culture of automation.
+We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn)
+
 
 <div class=''>
   <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 </div>
 
-
+<!--  
 ### our Experience
 - JavaScript ES2021/ES6/ES7
 - JavaScript Ecosystem (Browsers, React/Preact, Node.js, NPM, webpack, NPX, EthPM)
@@ -86,14 +87,9 @@ Lean Startup, Data focus, Agile Culture, Culture of automation.
     <br/>
     <a target="_blank" href='https://pinner.rili.be/'>Pinner a real DApp hosting</a>
     <br/>
-<!--     <div class='text-right'>
-      <a href="https://spookyswap.finance/swap" target="_blank">
-        <img style="vertical-align: sub;margin-right: 3px;" src="/assets/ftm.svg" height="18" width="18">
-        Get RILI Playground
-      </a>
-    </div> -->
   </div>
 </div>
+-->
 
 
 <hr />
