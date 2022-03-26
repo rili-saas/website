@@ -178,17 +178,17 @@
         <ul>
             <li>
                 <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
-                  Front-end React.js Application <strong>by ciro-maciel</strong>
+                  Front-end React.js Application
                 </a>
             </li>
             <li>
                 <a href="https://github.com/ciro-maciel/template-back-end-node.js-services" target="_blank">
-                    Back-end Node.js Services <strong>by ciro-maciel</strong>
+                    Back-end Node.js Services
                 </a>
             </li>
             <li>
                 <a href="https://github.com/ciro-maciel/template-back-end-node.js-graphql" target="_blank">
-                    Back-end Node.js GraphQL <strong>by ciro-maciel</strong>
+                    Back-end Node.js GraphQL
                 </a>
             </li>
             <li>
