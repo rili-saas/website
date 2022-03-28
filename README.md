@@ -32,7 +32,7 @@ We are a remote technology company committed to building world class SaaS (softw
 ### our Projects
 - <a href="http://proxy.rili.be/" target="_blank">Proxy</a> - all roads, One place
 - <a href="https://webshot.click/" target="_blank">webShot</a> - take Screenshots of web pages
-- <a href="https://workspace.rili.be/" target="_blank">Workspace</a> - simple, how Everything should be
+- <a href="https://go2work.click/" target="_blank">Workspace</a> - simple, how Everything should be
 
   
 #### Open Source
