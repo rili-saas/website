@@ -114,7 +114,7 @@ We are a remote technology company committed to building world class SaaS (softw
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️  by </span>
- <a href="http://workspace.rili.be" style="font-size: 11px" target="_blank">
+ <a href="http://go2work.click" style="font-size: 11px" target="_blank">
    <strong style="font-size: 11px">workspace</strong>
  </a>
 </div>
