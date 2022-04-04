@@ -23,7 +23,7 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
 
-We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn).
+We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn) that are used by millions of users worldwide.
 
 <div class=''>
   <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
