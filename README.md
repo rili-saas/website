@@ -25,11 +25,18 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
 
 We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn) that are used by millions of users worldwide.
 
+**Got a brilliant startup idea?**
+  
+Tell us about the challenge you want to solve, and we will find a digital solutiOn.
+  
 <div class=''>
   <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
 </div>
 
-### our Projects
+### our solutiOns
+  
+We’re serious about creating amazing solutiOns
+  
 - <a href="http://proxy.rili.be/" target="_blank">Proxy</a> - all roads, One place
 - <a href="https://webshot.click/" target="_blank">webShot</a> - take Screenshots of web pages
 - <a href="https://go2work.click/" target="_blank">Workspace</a> - simple, how Everything should be
