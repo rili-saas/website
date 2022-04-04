@@ -23,9 +23,9 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
 
-We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn) that are used by millions of users worldwide.
+We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn) that are used by **millions of users** worldwide.
 
-**Got a brilliant startup idea?**
+#### Got a brilliant startup idea?
   
 Tell us about the challenge you want to solve, and we will find a digital solutiOn.
   
