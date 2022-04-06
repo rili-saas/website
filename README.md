@@ -22,8 +22,8 @@
 </div>
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
-
-We are a remote technology company committed to building world class SaaS (softwAre as a solutiOn) that are used by **millions of users** worldwide.
+  
+We use our expertise to prove SaaS (softwAre as a solutiOn) in an Agile way used by **millions of users** worldwide.
 
 #### You have a need that must be solved with Software?
   
