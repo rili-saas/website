@@ -29,10 +29,8 @@ building Software as a Solution used by millions of users worldwide.
   
 Tell us about the challenge you want to solve, and we will find a digital solutiOn.
   
-<div class=''>
-  <a href="mailto:sleuths_network0u@icloud.com" target="_blank"><strong>Contact us</strong></a>
-</div>
-
+Connect with us via [linkedin](https://www.linkedin.com/company/rili-saas/) or send us an [email](mailto:sleuths_network0u@icloud.com).
+  
 ### our solutiOns
   
 We’re serious about creating amazing solutiOns
