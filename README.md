@@ -47,12 +47,15 @@ We’re serious about creating amazing solutiOns
 ### our Clients
 - <a href="https://odontohora.com.br/" target="_blank">Odonto Hora</a> - Finanças na Odontologia
 
-  
-#### Open Source
-- <a href="" target="_blank">uniQue</a> - SaaS starter kit, foundation for your **business**
+
+#### our Courses
 - <a href="https://github.com/rili-saas/template-front-end-react.js-application" target="_blank">Front-end React.js Application</a> - template code for RiLi products
 - <a href="https://github.com/rili-saas/template-back-end-node.js-services" target="_blank">Back-end Node.js Services</a> - template code for RiLi products
 - <a href="https://github.com/rili-saas/template-back-end-node.js-graphql" target="_blank">Back-end Node.js GraphQL</a> - template code for RiLi products
+  
+  
+#### Open Source
+- <a href="" target="_blank">uniQue</a> - SaaS starter kit, foundation for your **business**
 - <a href="https://github.com/ciro-maciel/utility" target="_blank">utility</a> - utility package for development Applications
   
 
