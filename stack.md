@@ -229,7 +229,7 @@
       
         <h3 class='text-center'>Business</h3>
         <ul>
-            <li>
+<!--             <li>
                 <a href="https://workspace.rili.be/" target="_blank">
                     Workspace <strong>by RiLi</strong>
                 </a>
@@ -238,7 +238,7 @@
                 <a href="https://monitors.rili.be/" target="_blank">
                     Monitors <strong>by RiLi</strong>
                 </a>
-            </li>
+            </li> -->
             <li>
                 <a href="https://www.loom.com/" target="_blank">
                     Loom
