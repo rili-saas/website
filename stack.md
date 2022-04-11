@@ -135,11 +135,6 @@
                 </a>
             </li>
             <li>
-                <a href="https://small.chat/" target="_blank">
-                    Smallchat
-                </a>
-            </li>
-            <li>
                 <a href="https://github.com/features/issues" target="_blank">
                   Github - Projects
                 </a>
@@ -218,11 +213,6 @@
             <li>
                 <a href="http://favicon.io/" target="_blank">
                     Favicon
-                </a>
-            </li>
-            <li>
-                <a href="https://streamlineicons.com/" target="_blank">
-                    Streamline
                 </a>
             </li>
             <li>
