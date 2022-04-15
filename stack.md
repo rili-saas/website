@@ -125,6 +125,14 @@
                     Ahrefs
                 </a>
             </li>
+            <li>
+                        
+                <a href="https://www.highlight.run/" target="_blank">
+                    Highlight
+                </a>
+            </li>
+          
+
         </ul>
       
         <h3 class='text-center'>Communication</h3>
