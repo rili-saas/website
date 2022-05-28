@@ -53,7 +53,7 @@ We’re serious about creating amazing solutiOns
   
   
 #### Open Source
-- <a href="" target="_blank">uniQue</a> - SaaS starter kit, foundation for your **business**
+- <a href="https://github.com/rili-saas-unique" target="_blank">uniQue</a> - SaaS starter kit, foundation for your **business**
 - <a href="https://github.com/ciro-maciel/utility" target="_blank">utility</a> - utility package for development Applications
   
 
