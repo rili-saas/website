@@ -23,7 +23,7 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
   
-building Software as a Solution used by millions of users worldwide.
+<span style='font-size:16px'>building Software as a Solution used by millions of users worldwide.</span>
 
 <!-- #### You have a need that must be solved with Software? -->
   
