@@ -175,6 +175,16 @@
                     ColorSlur
                 </a>
             </li>
+            <li>
+                <a href="https://github.com/yujitach/MenuMeters" target="_blank">
+                    MenuMeters
+                </a>
+            </li>
+            <li>
+                <a href="https://macpaw.com/pt/cleanmymac" target="_blank">
+                    CleanMyMac X
+                </a>
+            </li>
         </ul>
 
         <h3 class='text-center'>Coding</h3>
