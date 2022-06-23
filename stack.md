@@ -243,6 +243,11 @@
                     Superscene 4.1
                 </a>
             </li>
+            <li>
+                <a href="https://thenounproject.com/" target="_blank">
+                    Noun Project
+                </a>
+            </li>
         </ul>
       
         <h3 class='text-center'>Business</h3>
