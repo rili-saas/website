@@ -154,38 +154,77 @@
     </div>
     <div class="flex-row-item">
         <h3 class='text-center'>Tools</h3>
-        <ul>
-            <li>
-                <a href="https://code.visualstudio.com/" target="_blank">
-                    Visual Studio Code
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/tonsky/FiraCode" target="_blank">
-                    FiraCode
-                </a>
-            </li>
-            <li>
-                <a href="https://imageoptim.com/" target="_blank">
-                    ImageOptim
-                </a>
-            </li>
-            <li>
-                <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
-                    ColorSlur
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/yujitach/MenuMeters" target="_blank">
-                    MenuMeters
-                </a>
-            </li>
-            <li>
-                <a href="https://macpaw.com/pt/cleanmymac" target="_blank">
-                    CleanMyMac X
-                </a>
-            </li>
-        </ul>
+      
+      <div class="flex-row-container">
+        <div class="flex-row-item">
+          <ul>
+              <li>
+                  <a href="https://code.visualstudio.com/" target="_blank">
+                      Visual Studio Code
+                  </a>
+              </li>
+              <li>
+                  <a href="https://github.com/tonsky/FiraCode" target="_blank">
+                      FiraCode
+                  </a>
+              </li>
+              <li>
+                  <a href="https://imageoptim.com/" target="_blank">
+                      ImageOptim
+                  </a>
+              </li>
+              <li>
+                  <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
+                      ColorSlur
+                  </a>
+              </li>
+              <li>
+                  <a href="https://github.com/yujitach/MenuMeters" target="_blank">
+                      MenuMeters
+                  </a>
+              </li>
+              <li>
+                  <a href="https://macpaw.com/pt/cleanmymac" target="_blank">
+                      CleanMyMac X
+                  </a>
+              </li>
+          </ul>
+        </div>
+        <div class="flex-row-item">
+          <ul>
+              <li>
+                  <a href="https://code.visualstudio.com/" target="_blank">
+                      Visual Studio Code
+                  </a>
+              </li>
+              <li>
+                  <a href="https://github.com/tonsky/FiraCode" target="_blank">
+                      FiraCode
+                  </a>
+              </li>
+              <li>
+                  <a href="https://imageoptim.com/" target="_blank">
+                      ImageOptim
+                  </a>
+              </li>
+              <li>
+                  <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
+                      ColorSlur
+                  </a>
+              </li>
+              <li>
+                  <a href="https://github.com/yujitach/MenuMeters" target="_blank">
+                      MenuMeters
+                  </a>
+              </li>
+              <li>
+                  <a href="https://macpaw.com/pt/cleanmymac" target="_blank">
+                      CleanMyMac X
+                  </a>
+              </li>
+          </ul>
+        </div>
+      </div>     
 
         <h3 class='text-center'>Coding</h3>
         <ul>
