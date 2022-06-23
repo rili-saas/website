@@ -273,8 +273,8 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.paddle.com" target="_blank">
-                    Paddle
+                <a href="https://stripe.com/" target="_blank">
+                    Stripe
                 </a>
             </li>
             <li>
