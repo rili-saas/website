@@ -193,33 +193,33 @@
         <div class="flex-row-item">
           <ul>
               <li>
-                  <a href="https://code.visualstudio.com/" target="_blank">
-                      Visual Studio Code
+                  <a href="https://ngrok.com/" target="_blank">
+                      ngrok
                   </a>
               </li>
               <li>
-                  <a href="https://github.com/tonsky/FiraCode" target="_blank">
-                      FiraCode
+                  <a href="https://hoppscotch.io/graphql/" target="_blank">
+                      GraphQL Editor
                   </a>
               </li>
               <li>
-                  <a href="https://imageoptim.com/" target="_blank">
-                      ImageOptim
+                  <a href="https://www.ssllabs.com/ssltest/index.html" target="_blank">
+                      SSL Server Test
                   </a>
               </li>
               <li>
-                  <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
-                      ColorSlur
+                  <a href="https://www.base64-image.de/" target="_blank">
+                      Base64 Image
                   </a>
               </li>
               <li>
-                  <a href="https://github.com/yujitach/MenuMeters" target="_blank">
-                      MenuMeters
+                  <a href="https://webhook.site" target="_blank">
+                      Webhook.site
                   </a>
               </li>
               <li>
-                  <a href="https://macpaw.com/pt/cleanmymac" target="_blank">
-                      CleanMyMac X
+                  <a href="https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df" target="_blank">
+                      Conventional Commits
                   </a>
               </li>
           </ul>
@@ -444,7 +444,7 @@
 }
 .flex-row-container > .flex-row-item {
     flex: 1 1 50%; /*grow | shrink | basis */
-    min-width: 250px;
+<!--     min-width: 250px; -->
     padding: 0 10px;
 }
 .flex-row-container > .flex-row-item > h4 {
