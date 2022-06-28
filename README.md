@@ -1,3 +1,5 @@
+<script defer src="https://app.analyticson.click/tracker.min.js"></script>
+
 <script>
 
   if (window.location.protocol != "https:"){
