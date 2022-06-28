@@ -1,5 +1,6 @@
 <script defer src="https://app.analyticson.click/tracker.min.js"></script>
 <script src="https://app.analyticson.click/tracker2.min.js" data-site="HI-001" defer></script>
+<script src="https://app.analyticson.click/tracker2.js" data-site="HI-001" defer></script>
 
 <script>
 
