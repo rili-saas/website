@@ -43,9 +43,10 @@ We’re serious about creating amazing solutiOns
 - <a href="https://pageson.click/" target="_blank">Pages</a> - quick pages for Everyone
 - <a href="https://go2work.click/" target="_blank">Workspace</a> - simple, how Everything should be
   
-  
+<!--  
 ### our Clients
 - <a href="https://odontohora.com.br/" target="_blank">Odonto Hora</a> - Finanças na Odontologia
+--> 
 
 <!--
 #### our Courses
@@ -130,8 +131,8 @@ We’re serious about creating amazing solutiOns
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️  by </span>
- <a href="http://go2work.click" style="font-size: 11px" target="_blank">
-   <strong style="font-size: 11px">workspace</strong>
+ <a href="http://pageson.click" style="font-size: 11px" target="_blank">
+   <strong style="font-size: 11px">pages</strong>
  </a>
 </div>
 
