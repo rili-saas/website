@@ -169,11 +169,6 @@
                   </a>
               </li>
               <li>
-                  <a href="https://imageoptim.com/" target="_blank">
-                      ImageOptim
-                  </a>
-              </li>
-              <li>
                   <a href="https://apps.apple.com/us/app/colorslurp/id1287239339" target="_blank">
                       ColorSlur
                   </a>
@@ -193,28 +188,8 @@
         <div class="flex-row-item">
           <ul>
               <li>
-                  <a href="https://ngrok.com/" target="_blank">
-                      ngrok
-                  </a>
-              </li>
-              <li>
-                  <a href="https://hoppscotch.io/graphql/" target="_blank">
-                      GraphQL Editor
-                  </a>
-              </li>
-              <li>
                   <a href="https://www.ssllabs.com/ssltest/index.html" target="_blank">
                       SSL Server Test
-                  </a>
-              </li>
-              <li>
-                  <a href="https://www.base64-image.de/" target="_blank">
-                      Base64 Image
-                  </a>
-              </li>
-              <li>
-                  <a href="https://webhook.site" target="_blank">
-                      Webhook.site
                   </a>
               </li>
               <li>
