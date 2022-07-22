@@ -147,8 +147,11 @@
                   Github - Projects
                 </a>
             </li>
-          
-
+            <li>
+                <a href="https://github.com/features/issues" target="_blank">
+                  Chatwoot
+                </a>
+            </li>
         </ul>
       
     </div>
