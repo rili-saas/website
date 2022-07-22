@@ -148,7 +148,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/features/issues" target="_blank">
+                <a href="https://www.chatwoot.com/" target="_blank">
                   Chatwoot
                 </a>
             </li>
