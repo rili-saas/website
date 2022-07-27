@@ -200,6 +200,11 @@
                       Conventional Commits
                   </a>
               </li>
+              <li>
+                  <a href="https://ohmyz.sh/" target="_blank">
+                      oh-my-zsh
+                  </a>
+              </li>
           </ul>
         </div>
       </div>     
