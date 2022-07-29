@@ -1,5 +1,15 @@
 <script src="https://app.analyticson.click/tracker.min.js" data-site="RILI.BE" defer></script>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2QB71KM4F8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2QB71KM4F8');
+</script>
+
 <script>
 
   if (window.location.protocol != "https:"){
@@ -43,7 +53,7 @@
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
   
-<span style='font-size:16px'>building Software as a Solution used by millions of users worldwide.</span>
+<!-- <span style='font-size:16px'>building Software as a Solution used by millions of users worldwide.</span> -->
 
 <!-- #### You have a need that must be solved with Software? -->
   
