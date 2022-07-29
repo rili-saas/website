@@ -1,13 +1,13 @@
 <script src="https://app.analyticson.click/tracker.min.js" data-site="RILI.BE" defer></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2QB71KM4F8"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WYRREVJDLQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2QB71KM4F8');
+  gtag('config', 'G-WYRREVJDLQ');
 </script>
 
 <script>
