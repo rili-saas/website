@@ -78,6 +78,11 @@
                 </a>
             </li>
             <li>
+                <a href="https://typesense.org/" target="_blank">
+                    Typesense
+                </a>
+            </li>
+            <li>
                 <a href="https://www.serverless.com/" target="_blank">
                     Serverless Framework
                 </a>
@@ -212,19 +217,10 @@
         <h3 class='text-center'>Coding</h3>
         <ul>
             <li>
-                <a href="https://github.com/ciro-maciel/template-front-end-react.js-application" target="_blank">
-                  Front-end React.js Application
+                <a href="https://github.com/rili-saas-unique" target="_blank">
+                  uniQue 
                 </a>
-            </li>
-            <li>
-                <a href="https://github.com/ciro-maciel/template-back-end-node.js-services" target="_blank">
-                    Back-end Node.js Services
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/ciro-maciel/template-back-end-node.js-graphql" target="_blank">
-                    Back-end Node.js GraphQL
-                </a>
+                - SaaS starter kit, foundation for your business
             </li>
             <li>
                 <a href="https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df" target="_blank">
