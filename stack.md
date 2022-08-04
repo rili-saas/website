@@ -242,6 +242,11 @@
                 </a>
             </li>
             <li>
+                <a href="https://tailwindcss.com/" target="_blank">
+                  Tailwind CSS
+                </a>
+            </li>
+            <li>
                 <a href="https://ant.design/" target="_blank">
                     Ant Design
                 </a>
@@ -264,6 +269,11 @@
             <li>
                 <a href="https://thenounproject.com/" target="_blank">
                     Noun Project
+                </a>
+            </li>
+            <li>
+                <a href="https://heroicons.com/" target="_blank">
+                    Heroicons
                 </a>
             </li>
         </ul>
