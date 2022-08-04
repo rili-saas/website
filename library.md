@@ -1,4 +1,4 @@
 ## RiLi - SaaS - Library
 
-- https://www.indiehackers.com/product/paypro-global/definitive-guide-to-micro-saas-build-a-profitable-business--N8NdTiKRg6npPH0cyI0
-- https://blog.payproglobal.com/micro-saas-guide
+- [How to Build to Sell](https://www.indiehackers.com/product/tiny-acquisitions/how-to-build-to-sell--N8WCSjAx_OQcEGxT89O)
+- [Build a Profitable Business](https://blog.payproglobal.com/micro-saas-guide)
