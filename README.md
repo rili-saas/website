@@ -53,7 +53,7 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
 
 <div style="text-align: right; float: right">
-<img width="96" style="border-radius: 60px;" src="https://raw.githubusercontent.com/rili-saas/website/main/assets/apple-touch-icon.png" height="96" alt="">
+<img src="https://i.imgur.com/fzjeizv.png" height="230" alt="">
 </div>
 
 hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
