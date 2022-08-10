@@ -201,11 +201,6 @@
                   </a>
               </li>
               <li>
-                  <a href="https://gist.github.com/ciro-maciel/4160d3ec50bef67bcfa82b621329e3df" target="_blank">
-                      Conventional Commits
-                  </a>
-              </li>
-              <li>
                   <a href="https://ohmyz.sh/" target="_blank">
                       oh-my-zsh
                   </a>
