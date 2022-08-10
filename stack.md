@@ -331,8 +331,8 @@
 
 <div style="text-align: right; float: right;">
  <span style="font-size: 11px"> made with ❤️  by </span>
- <a href="http://go2work.click" style="font-size: 11px" target="_blank">
-   <strong style="font-size: 11px">workspace</strong>
+ <a href="http://pageson.click/" style="font-size: 11px" target="_blank">
+   <strong style="font-size: 11px">pages</strong>
  </a>
 </div>
 
