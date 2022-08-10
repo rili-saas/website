@@ -222,13 +222,14 @@
                     Conventional Commits
                 </a>
             </li>
+<!--  
             <li>
                 <a href="https://www.npmjs.com/package/npm-check-updates" target="_blank">
                     npm-check-updates
                 </a>
             </li>
         </ul>
-      
+-->      
         <h3 class='text-center'>Design</h3>
         <ul>
             <li>
@@ -251,6 +252,7 @@
                     Favicon
                 </a>
             </li>
+<!--          
             <li>
                 <a href="https://threedee.design/" target="_blank">
                     ThreeDee
@@ -261,6 +263,7 @@
                     Superscene 4.1
                 </a>
             </li>
+-->
             <li>
                 <a href="https://thenounproject.com/" target="_blank">
                     Noun Project
