@@ -64,7 +64,7 @@ hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
   
 Tell us about the challenge you want to solve, and we will find a digital solutiOn. We have technology and methods for that.
   
-Connect with us via <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> or send us an [email](mailto:team@rili.be).
+Connect with us via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5cIkNoA" target="_blank">youtube</a>, <a href="https://www.instagram.com/rili.saas/" target="_blank">instagram</a>, <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> or send us an [email](mailto:team@rili.be).
   
 ### our solutiOns
   
