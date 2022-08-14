@@ -60,7 +60,7 @@ olá! 👋 somos a <strong style='font-size:18px'>RiLi SaaS
   
 <span style='font-size:16px'>Criamos ferramentas com Software para melhorar a vida das pessoas.</span>
 
-Conte-nos sobre o desafio que deseja resolver e fabricaremos uma solução digital. Temos tecnologia e métodos para isso.
+Conte-nos sobre o desafio que deseja resolver que podemos fabricar uma solução com Software. **Temos tecnologia e métodos para isso.**
   
 Conecte-se conosco via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5cIkNoA" target="_blank">youtube</a>, <a href="https://www.instagram.com/rili.saas/" target="_blank">instagram</a>, <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> ou envie-nos um [email](mailto:team@rili.be).
   
