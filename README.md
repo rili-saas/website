@@ -56,7 +56,7 @@
 <img src="https://i.imgur.com/fzjeizv.png" height="230" alt="">
 </div>
 
-olá! 👋 nós somos a <strong style='font-size:18px'>RiLi SaaS
+olá! 👋 somos a <strong style='font-size:18px'>RiLi SaaS
   
 <span style='font-size:16px'>Criamos ferramentas com Software para melhorar a vida das pessoas.</span>
 
