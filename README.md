@@ -56,17 +56,17 @@
 <img src="https://i.imgur.com/fzjeizv.png" height="230" alt="">
 </div>
 
-hello! 👋 we are the <strong style='font-size:18px'>RiLi SaaS
+olá! 👋 nós somos a <strong style='font-size:18px'>RiLi SaaS
   
-<span style='font-size:16px'>We create tools with Software to make people's lives better.</span>
+<span style='font-size:16px'>Criamos ferramentas com Software para melhorar a vida das pessoas.</span>
 
-Tell us about the challenge you want to solve and we will manufacture a digital solutiOn. We have technology and methods for that.
+Conte-nos sobre o desafio que deseja resolver e fabricaremos uma solução digital. Temos tecnologia e métodos para isso.
   
-Connect with us via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5cIkNoA" target="_blank">youtube</a>, <a href="https://www.instagram.com/rili.saas/" target="_blank">instagram</a>, <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> or send us an [email](mailto:team@rili.be).
+Conecte-se conosco via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5cIkNoA" target="_blank">youtube</a>, <a href="https://www.instagram.com/rili.saas/" target="_blank">instagram</a>, <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> ou envie-nos um [email](mailto:team@rili.be).
   
-### our solutiOns
+### nossas Ferramentas
   
-We’re serious about creating amazing solutiOns
+Levamos a sério a criação de soluções **incríveis**
   
 <!-- - <a href="http://proxy.rili.be/" target="_blank">Proxy</a> - all roads, One place -->
 <!-- - <a href="https://formson.click/" target="_blank">Foms</a> - powerful forms Anywhere  -->
@@ -75,11 +75,6 @@ We’re serious about creating amazing solutiOns
 - <a href="https://pageson.click/" target="_blank">Pages</a> - Crie páginas incríveis na web em poucos minutos
 - <a href="https://odontohora.com.br/" target="_blank">Odonto Hora</a> - Finanças na Odontologia
   
-<!--  
-### our Clients
-- <a href="https://odontohora.com.br/" target="_blank">Odonto Hora</a> - Finanças na Odontologia
---> 
-
 <!--
 #### our Courses
 - <a href="https://github.com/rili-saas/template-front-end-react.js-application" target="_blank">Front-end React.js Application</a> - template code for RiLi products
@@ -87,9 +82,9 @@ We’re serious about creating amazing solutiOns
 - <a href="https://github.com/rili-saas/template-back-end-node.js-graphql" target="_blank">Back-end Node.js GraphQL</a> - template code for RiLi products
 -->  
   
-#### Open Source
-- <a href="https://github.com/rili-saas-unique" target="_blank">uniQue</a> - SaaS starter kit, foundation for your **business**
-- <a href="https://github.com/ciro-maciel/utility" target="_blank">utility</a> - utility package for development Applications
+#### Contribuições Open Source
+- <a href="https://github.com/rili-saas-unique" target="_blank">uniQue</a> - SaaS starter kit, base para o seu **negócio**
+- <a href="https://github.com/ciro-maciel/utility" target="_blank">utility</a> - pacote de utilitários para Aplicativos
   
 
 
