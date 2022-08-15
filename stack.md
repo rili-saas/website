@@ -253,12 +253,12 @@
                     Favicon
                 </a>
             </li>
-<!--          
             <li>
                 <a href="https://threedee.design/" target="_blank">
                     ThreeDee
                 </a>
             </li>
+<!--          
             <li>
                 <a href="https://craftwork.design/downloads/superscene-3d-constructor/" target="_blank">
                     Superscene 4.1
