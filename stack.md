@@ -48,6 +48,11 @@
                     NPM
                 </a>
             </li>
+            <li>
+                <a href="https://autocode.com/" target="_blank">
+                    Autocode
+                </a>
+            </li>
         </ul>
 
         <h3 class='text-center'>Tech</h3>
@@ -98,6 +103,11 @@
 
         <h3 class='text-center'>Site Reliability Engineering</h3>
         <ul>
+            <li>
+                <a href="https://uptime.kuma.pet/" target="_blank">
+                    Uptime Kuma
+                </a>
+            </li>
             <li>
                 <a href="https://app.pm2.io" target="_blank">
                     PM2
