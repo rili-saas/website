@@ -72,11 +72,13 @@
                     GraphQL
                 </a>
             </li>
+<!--
             <li>
                 <a href="https://www.meilisearch.com/" target="_blank">
                     MeiliSearch
                 </a>
-            </li>
+            </li> 
+-->
             <li>
                 <a href="https://typesense.org/" target="_blank">
                     Typesense
@@ -121,8 +123,8 @@
                 </a>
             </li>
             <li>
-                <a href="https://www.hotjar.com/" target="_blank">
-                    Hotjar
+                <a href="https://posthog.com" target="_blank">
+                    PostHog
                 </a>
             </li>
             <li>
@@ -131,13 +133,10 @@
                 </a>
             </li>
             <li>
-                        
-                <a href="https://www.highlight.run/" target="_blank">
-                    Highlight
+                <a href="https://neilpatel.com/" target="_blank">
+                    Neil Patel
                 </a>
             </li>
-          
-
         </ul>
       
         <h3 class='text-center'>Communication</h3>
@@ -291,11 +290,13 @@
                 </a>
             </li> 
 -->
+<!-- 
             <li>
                 <a href="https://www.loom.com/" target="_blank">
                     Loom
                 </a>
-            </li>
+            </li> 
+-->
             <li>
                 <a href="https://cleanshot.com/" target="_blank">
                     CleanShot X
@@ -304,6 +305,11 @@
             <li>
                 <a href="https://stripe.com/" target="_blank">
                     Stripe
+                </a>
+            </li>
+            <li>
+                <a href="https://www.paddle.com/" target="_blank">
+                    Paddle
                 </a>
             </li>
             <li>
