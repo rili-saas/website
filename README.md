@@ -64,7 +64,7 @@ Conte-nos sobre o desafio que deseja resolver que podemos fabricar uma solução
   
 Conecte-se conosco via <a href="https://www.youtube.com/channel/UC1nV2m1WNnvI1haX5cIkNoA" target="_blank">youtube</a>, <a href="https://www.instagram.com/rili.saas/" target="_blank">instagram</a>, <a href="https://www.linkedin.com/company/rilisaas/" target="_blank">linkedin</a> ou envie-nos um [email](mailto:team@rili.be).
   
-### nossas Ferramentas
+### Nossas Ferramentas
   
 Levamos a sério a criação de soluções **incríveis**
   
