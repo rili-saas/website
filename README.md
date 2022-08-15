@@ -154,6 +154,10 @@ Levamos a sério a criação de soluções **incríveis**
   <a href="/stack" style="font-size: 11px">
     nossa Stack
   </a>
+  |
+  <a href="http://monitoring.rili.be/status/rili-saas" style="font-size: 11px">
+    status
+  </a>
 </div>
 
 <div style="text-align: right; float: right;">
