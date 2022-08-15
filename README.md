@@ -155,7 +155,7 @@ Levamos a sério a criação de soluções **incríveis**
     nossa Stack
   </a>
   |
-  <a href="http://monitoring.rili.be/status/rili-saas" style="font-size: 11px">
+  <a href="http://monitoring.rili.be/status/rili-saas" target="_blank" style="font-size: 11px">
     status
   </a>
 </div>
