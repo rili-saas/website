@@ -200,10 +200,6 @@
                       CleanMyMac X
                   </a>
               </li>
-          </ul>
-        </div>
-        <div class="flex-row-item">
-          <ul>
               <li>
                   <a href="https://www.ssllabs.com/ssltest/index.html" target="_blank">
                       SSL Server Test
