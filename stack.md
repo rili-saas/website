@@ -118,6 +118,18 @@
                     Sentry
                 </a>
             </li>
+<!--             
+            <li>
+                <a href="https://www.netdata.cloud/" target="_blank">
+                    Netdata
+                </a>
+            </li>
+            <li>
+                <a href="https://grafana.com/" target="_blank">
+                    Grafana
+                </a>
+            </li>
+-->
         </ul>
 
         <h3 class='text-center'>Data</h3>
