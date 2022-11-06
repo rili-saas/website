@@ -222,6 +222,16 @@
                       oh-my-zsh
                   </a>
               </li>
+              <li>
+                  <a href="https://github.com/JanDeDobbeleer/oh-my-posh" target="_blank">
+                      oh-my-posh
+                  </a>
+              </li>
+              <li>
+                  <a href="https://iterm2.com/index.html" target="_blank">
+                      iTerm2
+                  </a>
+              </li>
           </ul>
         </div>
       </div>     
