@@ -232,6 +232,11 @@
                       iTerm2
                   </a>
               </li>
+              <li>
+                  <a href="https://fig.io/" target="_blank">
+                      Fig
+                  </a>
+              </li>
           </ul>
         </div>
       </div>     
