@@ -165,8 +165,7 @@ Levamos a sério a criação de soluções **incríveis**
 </div>
 
 <div style="text-align: right; float: right;">
- <span style="font-size: 11px"> feito com ❤️  por </span>
- RiLi
+ RiLi SaaS - Av. Paulista, 2300, Sao Paulo, Sao Paulo, 01310-300, Brazil
 <!--    
  <a href="http://pageson.click" style="font-size: 11px" target="_blank">
    <strong style="font-size: 11px">Pages</strong>
